@@ -1,6 +1,6 @@
 ## Vehicle Registration Number Recognition
 
-This project implements an algorithm for automatically recognizing vehicle registration numbers in images using OpenCV and EasyOCR.
+This project implements an algorithm for automatically recognizing vehicle registration numbers in images using OpenCV and EasyOCR
 
 ## Project Description
 
